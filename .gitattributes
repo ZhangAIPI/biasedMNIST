@@ -1,0 +1,5 @@
+data filter=lfs diff=lfs merge=lfs -text
+MNIST filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+run.sh filter=lfs diff=lfs merge=lfs -text
+weights filter=lfs diff=lfs merge=lfs -text
